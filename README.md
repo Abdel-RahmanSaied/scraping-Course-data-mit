@@ -23,14 +23,3 @@ Install Libraries with pip
 
 - [@Abdel-Rahman Saied](https://github.com/Abdel-RahmanSaied)
 
-
-# scraping Course data from MIT
-
-Python script to scraping data from MIT using :
-- requests 
-- BeatifulSoup 
-- CSV 
-
-and finally show it in data frame using :
-- pandas
-
